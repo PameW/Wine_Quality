@@ -154,13 +154,14 @@ The project explores different classification algorithms, including:
 ## 📂 Repository Structure
 
 Wine_Quality/
-│
-├── data/
-├── notebook/
-├── images/
-├── README.md
-├── requirements.txt
-└── Wine_Quality.ipynb
+
+- data/
+- notebook/
+- images/
+- README.md
+- requirements.txt
+- Wine_Quality.ipynb
+- LICENSE
 
 ---
 
